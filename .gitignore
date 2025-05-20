@@ -46,3 +46,6 @@ venv.bak/
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Images
+vrp_optimization_stages_16_vehicles.png
